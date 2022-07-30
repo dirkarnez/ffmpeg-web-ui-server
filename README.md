@@ -5,3 +5,7 @@ ffmpeg-web-ui-server
   - [dirkarnez/chrome-video-helper](https://github.com/dirkarnez/chrome-video-helper)
 - [ ] Cropping
 - [ ] audio alignment
+- [ ] cue generation
+- [ ] previewing frames
+- [ ] audio / video replacement with alignment
+- [ ] machine learning on audio / video
