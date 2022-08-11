@@ -9,3 +9,4 @@ ffmpeg-web-ui-server
 - [ ] previewing frames
 - [ ] audio / video replacement with alignment
 - [ ] machine learning on audio / video
+- [ ] [dirkarnez/m3udownloader](https://github.com/dirkarnez/m3udownloader)
